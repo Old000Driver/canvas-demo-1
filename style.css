@@ -6,4 +6,5 @@
 
 #canvas{
     display: block;
+    -webkit-overflow-scrolling: auto;
 }
